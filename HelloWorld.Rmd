@@ -1,0 +1,9 @@
+---
+title: "RStudio"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+## This is a markdown file
